@@ -1,9 +1,9 @@
-# Tour of Heroes
+# Temas de la sección
 
-{{}}        ### Interpolacion de datos
-@event      ### Manejo de eventos
-:property   ### Enlace de propiedades
-v-model     ### Relacion bidireccional
+{{}}        | Interpolación de datos<br>
+@event      | Manejo de eventos<br>
+:property   | Enlace de propiedades<br>
+v-model     | Relación bidireccional<br>
 
 ## Quick Start
 
